@@ -36,7 +36,7 @@
     .menuItems {
         list-style-type: none;
         display: none;
-        align-items: centers;
+        align-items: center;
         @include md {
             display: flex;
         }
